@@ -11,7 +11,7 @@ The dataset used for this project contains detailed information on restaurants l
 - **Other Attributes:** Online delivery, table booking options, and more.
 
 You can access the dataset from Kaggle:  
-[Dataset](<[Insert Kaggle link her](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants)>)
+[Dataset](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants)
 
 ## 🚀 **Key Features**
 
