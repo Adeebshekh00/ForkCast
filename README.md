@@ -17,7 +17,7 @@ You can access the dataset from Kaggle:
 
 ### 1. **Exploratory Data Analysis (EDA)**
 - Conducted a detailed EDA to extract valuable insights from the dataset.
-- Analyzed factors influencing restaurant ratings, such as cuisine type, location, and average cost.
+- Analyzed factors influencing restaurant ratings and average cost, such as cuisine type, location etc.
 - Identified patterns in customer preferences and market trends.
 
 ### 2. **Restaurant Recommendation Method**
