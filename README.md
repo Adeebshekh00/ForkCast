@@ -1,7 +1,7 @@
 # ForkCast
 
 ## 📌 **Introduction**
-This project focuses on analyzing and predicting the success of restaurants listed on Zomato using data science and machine learning techniques. It provides valuable insights into the restaurant industry by exploring customer reviews, identifying top-performing restaurants, and highlighting the reasons for low-rated restaurant performance. The project also includes a Power BI dashboard to showcase key findings visually.
+This project focuses on analyzing and predicting the success of restaurants listed on Zomato using data science and machine learning techniques. It provides valuable insights into the restaurant industry by exploring customer reviews, identifying top-performing restaurants, and highlighting the reasons for low-rated restaurant performance. 
 
 ## 📂 **Dataset**
 The dataset used for this project contains detailed information on restaurants listed on Zomato. It includes:
@@ -35,18 +35,9 @@ You can access the dataset from Kaggle:
 - Identified positive and negative sentiment patterns.
 - Analyzed the reasons behind the poor performance of low-rated restaurants, including common complaints and dissatisfaction trends.
 
-### 5. **Power BI Dashboard**
-- Created a clean and professional Power BI dashboard.
-- Showcases key metrics, such as restaurant ratings, customer feedback, and revenue patterns.
-- Interactive visualizations to highlight insights effectively.
-
-## 📊 **Power BI Dashboard Screenshot**
-![image](https://github.com/user-attachments/assets/39d2a8e4-be65-4901-87a1-b493eb1916f6)
-
 
 ## 🔥 **Technologies Used**
 - **Python:** For data analysis, visualization, and machine learning model development.
-- **Power BI:** For creating the interactive dashboard.
 - **Machine Learning Libraries:** scikit-learn, XGBoost, Random Forest, etc.
 - **NLP Libraries:** NLTK, TextBlob for sentiment analysis.
 - **Jupyter Notebook:** For development and testing.
