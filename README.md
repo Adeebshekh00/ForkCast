@@ -1,9 +1,9 @@
 # ForkCast
 
-## 📌 **Introduction**
+## **Introduction**
 This project focuses on analyzing and predicting the success of restaurants listed on Zomato using data science and machine learning techniques. It provides valuable insights into the restaurant industry by exploring customer reviews, identifying top-performing restaurants, and highlighting the reasons for low-rated restaurant performance. 
 
-## 📂 **Dataset**
+## **Dataset**
 The dataset used for this project contains detailed information on restaurants listed on Zomato. It includes:
 - **Restaurant Details:** Name, location, and cuisine type.
 - **Ratings and Reviews:** Average rating, number of reviews, and customer feedback.
@@ -13,7 +13,7 @@ The dataset used for this project contains detailed information on restaurants l
 You can access the dataset from Kaggle:  
 [Dataset](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants)
 
-## 🚀 **Key Features**
+## **Key Features**
 
 ### 1. **Exploratory Data Analysis (EDA)**
 - Conducted a detailed EDA to extract valuable insights from the dataset.
@@ -36,7 +36,7 @@ You can access the dataset from Kaggle:
 - Analyzed the reasons behind the poor performance of low-rated restaurants, including common complaints and dissatisfaction trends.
 
 
-## 🔥 **Technologies Used**
+## **Technologies Used**
 - **Python:** For data analysis, visualization, and machine learning model development.
 - **Machine Learning Libraries:** scikit-learn, XGBoost, Random Forest, etc.
 - **NLP Libraries:** NLTK, TextBlob for sentiment analysis.
